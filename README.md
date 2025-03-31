@@ -9,9 +9,9 @@ currently learning java
 
 ts gamedev as a hobby 
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">what i know</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode"/><br>
 </div>
