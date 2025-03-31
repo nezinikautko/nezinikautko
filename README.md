@@ -5,13 +5,8 @@
 
 
 
-
--  I’m currently working on a java project
-🌱 I’m currently learning JS, GIT, Java
--  I’m not looking to collaborate on anything
-- 🤔 I’m looking help
-- 📫 email: cat_kite12@disroot.org
-- ⚡ Fun fact: lazy developer
+currently learning java
+learning ts gamedev as a hobby 
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
