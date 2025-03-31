@@ -6,7 +6,8 @@
 
 
 currently learning java
-learning ts gamedev as a hobby 
+
+ts gamedev as a hobby 
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
