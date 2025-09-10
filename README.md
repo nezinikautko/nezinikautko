@@ -5,9 +5,9 @@
 
 
 
-currently learning java
+currently learning C
 
-ts gamedev as a hobby 
+gamedev as a hobby rn, but i wish it was my job 
 
 <h2 align="center">what i know</h2>
 <br/>
