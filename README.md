@@ -15,3 +15,9 @@ gamedev as a hobby rn, but i wish it was my job
     <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode"/><br>
 </div>
+
+<h2 align="center">what i actually use</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,codeblocks"/><br>
+</div>
